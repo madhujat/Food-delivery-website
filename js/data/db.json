@@ -1,0 +1,124 @@
+{
+    "categories": [
+        {
+            "id": "cat1",
+            "name": "Breakfast & Snacks",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/snacks.jpeg",
+                "alt": "image"
+            },
+            "href":"/category/snacks.html"
+        },
+        {
+            "id": "cat2",
+            "name": "Drinks",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/drinks.png",
+                "alt": "image"
+            },
+            "href": "/pages/category/drinks.html"
+        },
+        {
+            "id": "cat3",
+            "name": "Rice & Biryani",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/biryani.png",
+                "alt": "image"
+            },
+            "href": "/pages/category/rice-biryani.html"
+        },
+        {
+            "id": "cat4",
+            "name": "Soup",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/soup.png",
+                "alt": "image"
+            },
+            "href": "/pages/category/soup.html"
+        },
+       
+        {
+            "id": "cat5",
+            "name": "Pasta",
+            "discount":"upto 45% off",
+            "image" : {
+                "src":"../food/pasta.png",
+                "alt":"image"
+            },
+            "href": "/pages/category/pasta.html"
+        },
+        {
+            "id": "cat6",
+            "name": "Pizza",
+            "discount":"upto 45% off",
+            "image" : {
+                "src":"../food/pizza.png",
+                "alt":"image"
+            },
+            "href": "/pages/category/pizza.html"
+        },
+        {
+            "id": "cat7",
+            "name": "Chinese",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/noodles.png",
+                "alt": "image"
+            },
+            "href": "/pages/category/chinese.html"
+        },
+        {
+            "id": "cat8",
+            "name": "Paneer Special",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/paneer.png",
+                "alt": "image"
+            },
+            "href": "/pages/category/pannerspecial.html"
+        },
+        {
+            "id": "cat9",
+            "name": "Parantha & Roti",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/roti.png",
+                "alt": "image"
+            },
+            "href": "/pages/categories/rotis.html"
+        },
+        {
+            "id": "cat9",
+            "name": "South Indian",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/dosa.png",
+                "alt": "image"
+            },
+            "href": "/pages/categories/southindian.html"
+        },
+        {
+            "id": "cat10",
+            "name": "Desserts",
+            "discount": "upto 45% off",
+            "image": {
+                "src": "../food/brownie.png",
+                "alt": "image"
+            },
+            "href": "/pages/categories/desserts.html"
+        }
+    ],
+    "foods": [
+        {
+            "id": 1,
+            "name": "Pizza Margherita",
+            "category": "Italian",
+            "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+            "price": 12.99
+        }
+    ]
+}
